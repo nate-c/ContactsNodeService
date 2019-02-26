@@ -1,0 +1,17 @@
+{
+  "name": "nodeservice",
+  "version": "1.0.0",
+  "description": "multipurpose node service backend for R&Ding front end technologies",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nate",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "npm": "^6.4.1",
+    "require": "^2.4.20"
+  }
+}

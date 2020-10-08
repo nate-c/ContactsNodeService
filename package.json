@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "node server.js",
     "start": "node server.js"
   },
   "author": "Nate",
@@ -12,6 +13,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "npm": "^6.4.1",
-    "require": "^2.4.20"
+    "require": "^2.4.20",
+    "serve": "^11.3.2"
   }
 }
